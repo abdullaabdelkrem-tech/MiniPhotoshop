@@ -13,7 +13,7 @@ This file contains:
 
 - Menu system for image processing
 
-- link document : file:///C:/Users/acer/OneDrive/Desktop/Ass%201%20oop.pdf
+- link document :https://drive.google.com/file/d/14iTNuJUzpObqf3H6XoinVZXnp7sfAG9k/view?usp=sharing
 
 - link video : https://drive.google.com/file/d/1aeCn9yl7Si-YvT-cCV0j2rRLyK8vVIlC/view?usp=sharing
 
@@ -206,4 +206,5 @@ int main() {
 
     return 0;
 }
+
 
